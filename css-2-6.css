@@ -1,0 +1,421 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#FitsConteiner {
+    max-width: 1920px;
+    height: 2344px;
+    padding: 64px 158px 268px 158px;
+    background: #FFF;
+    margin: 0 auto;
+}
+
+#SectionOne {
+    max-width: 1604px;
+    height: 2344px;
+    background: #E4EBFF;
+    padding: 96px;
+    margin: 0 auto;
+}
+
+#FeaturesSection {
+    max-width: 1280px;
+    height: 2152px;
+    padding: 96px 0;
+    background: #FFF;
+    margin: 0 auto;
+}
+
+#ContentOne {
+    max-width: 1280px;
+    padding: 0 32px;
+    margin: 0 auto;
+    margin-bottom: 96px;
+}
+
+#featuresP {
+    color: #6941C6;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    margin: 0;
+}
+
+#h3text {
+    color: #181D27;
+    text-align: center;
+    font-family: "Inknut Antiqua";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.8px;
+    margin: 0;
+    margin-top: 12px;
+
+}
+
+#PowerfulText {
+    color: #535862;
+    text-align: center;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 32px;
+
+}
+
+/* !!! first1 !!!*/
+#first1 {
+    display: block;
+    max-width: 1280px;
+    height: 512px;
+    margin: 0 auto;
+    margin-bottom:96px;
+    padding: 0 0 0 32px;
+}
+
+#ShareteaMinboxes {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+
+    margin-right: 120px;
+
+}
+
+#Share {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+#Whether {
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+/* marks */
+#Mark {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+
+#Mark2 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage2 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+
+}
+
+#Mark3 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage3 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+
+
+
+
+#Diagram {
+    display: inline-block;
+    vertical-align: middle;
+    width: 560px;
+    height: 501px;
+   
+    background: url(image/dinamic.svg);
+}
+
+
+
+
+/* next conteiner */
+#ContentWwo{
+    width:1280px;
+    height:512px;
+    margin:0 auto;
+    margin-bottom:96px;
+   
+}
+#picture{
+    display: inline-block;
+    vertical-align: middle;
+    width:556px;
+    height:501px;
+    box-sizing: border-box;
+    background-image: url(image/dinamic.svg);
+    margin-right: 125px;
+   
+
+}
+
+/* textes */
+#ShareteaMinboxes1 {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+    padding-right:32px;
+    
+
+}
+
+#Share1 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+#Whether1 {
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+/* marks */
+#Mark1 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage1 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+
+#Mark4 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage4 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+
+}
+
+#Mark5 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage5 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+/* last contentthree */
+#contentThree{
+    width:1280px;
+    height:512px;
+    margin:0 auto;
+}
+#ShareteaMinboxess1 {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+    padding-left:32px;
+
+
+
+
+
+
+
+    margin-right:120px;
+    
+
+}
+
+#Sharee1 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+#Whetherr1 {
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+/* marks */
+#Mark11 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage11 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+
+#Mark44 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage44 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+
+}
+
+#Mark55 {
+    margin-left: 16px;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#Leverage55 {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+}
+#Diagram1 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 560px;
+    height: 501px;
+   
+    background: url(image/dinamic.svg);
+}
